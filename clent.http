@@ -1,0 +1,10 @@
+GET http://localhost:2121/products
+
+###
+GET http://localhost:2121/products/:1
+
+###
+GET http://localhost:2121/products:id/imgages
+
+###
+GET http://localhost:2121/products/category/
